@@ -1,0 +1,16 @@
+D:\_serie_design_patterns\__Estruturais\4_Decorator\Decorator_Exemplo\Decorator_Exemplo\bin\Debug\net5.0\Decorator_Exemplo.exe
+D:\_serie_design_patterns\__Estruturais\4_Decorator\Decorator_Exemplo\Decorator_Exemplo\bin\Debug\net5.0\Decorator_Exemplo.deps.json
+D:\_serie_design_patterns\__Estruturais\4_Decorator\Decorator_Exemplo\Decorator_Exemplo\bin\Debug\net5.0\Decorator_Exemplo.runtimeconfig.json
+D:\_serie_design_patterns\__Estruturais\4_Decorator\Decorator_Exemplo\Decorator_Exemplo\bin\Debug\net5.0\Decorator_Exemplo.runtimeconfig.dev.json
+D:\_serie_design_patterns\__Estruturais\4_Decorator\Decorator_Exemplo\Decorator_Exemplo\bin\Debug\net5.0\Decorator_Exemplo.dll
+D:\_serie_design_patterns\__Estruturais\4_Decorator\Decorator_Exemplo\Decorator_Exemplo\bin\Debug\net5.0\ref\Decorator_Exemplo.dll
+D:\_serie_design_patterns\__Estruturais\4_Decorator\Decorator_Exemplo\Decorator_Exemplo\bin\Debug\net5.0\Decorator_Exemplo.pdb
+D:\_serie_design_patterns\__Estruturais\4_Decorator\Decorator_Exemplo\Decorator_Exemplo\obj\Debug\net5.0\Decorator_Exemplo.csproj.AssemblyReference.cache
+D:\_serie_design_patterns\__Estruturais\4_Decorator\Decorator_Exemplo\Decorator_Exemplo\obj\Debug\net5.0\Decorator_Exemplo.GeneratedMSBuildEditorConfig.editorconfig
+D:\_serie_design_patterns\__Estruturais\4_Decorator\Decorator_Exemplo\Decorator_Exemplo\obj\Debug\net5.0\Decorator_Exemplo.AssemblyInfoInputs.cache
+D:\_serie_design_patterns\__Estruturais\4_Decorator\Decorator_Exemplo\Decorator_Exemplo\obj\Debug\net5.0\Decorator_Exemplo.AssemblyInfo.cs
+D:\_serie_design_patterns\__Estruturais\4_Decorator\Decorator_Exemplo\Decorator_Exemplo\obj\Debug\net5.0\Decorator_Exemplo.csproj.CoreCompileInputs.cache
+D:\_serie_design_patterns\__Estruturais\4_Decorator\Decorator_Exemplo\Decorator_Exemplo\obj\Debug\net5.0\Decorator_Exemplo.dll
+D:\_serie_design_patterns\__Estruturais\4_Decorator\Decorator_Exemplo\Decorator_Exemplo\obj\Debug\net5.0\ref\Decorator_Exemplo.dll
+D:\_serie_design_patterns\__Estruturais\4_Decorator\Decorator_Exemplo\Decorator_Exemplo\obj\Debug\net5.0\Decorator_Exemplo.pdb
+D:\_serie_design_patterns\__Estruturais\4_Decorator\Decorator_Exemplo\Decorator_Exemplo\obj\Debug\net5.0\Decorator_Exemplo.genruntimeconfig.cache
